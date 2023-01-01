@@ -1,0 +1,749 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+.response{
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.one{
+ 
+    width: 100%;
+    height: 100;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.para1{
+  margin-top:-12% ;
+  text-align: center;
+  max-width: 800px;
+  margin-left: 19%;
+  color: white;
+  font-size: 40px;
+  font-family: Montserrat;
+  font-weight: light;
+}
+.para2{
+  display: flex;
+  color: white;
+  max-width:800px;
+  text-align: center;
+  margin-left: 21%;
+  font-size: 19px;
+  font-family:  Montserrat;
+}
+.twoi{
+  display: flex;
+  margin-top: 70px;
+  margin-left: 70px;
+}
+.para3{
+  color: white;
+  font-family: Raleway;
+  font-weight: bolder;
+  font-size: 40px;
+  margin-top: -580px;
+  max-width:350px;
+  margin-left: 510px;
+}
+.para4{
+  color: white;
+  font-family: Raleway;
+  font-weight: bolder;
+  font-size: 40px;
+  margin-top: -41px;
+  max-width:450px;
+  margin-left: 510px;
+}
+.para5{
+  color: white;
+  font-size: 16px;
+  font-family: Montserrat;
+  margin-left: 510px;
+  max-width:580px;
+}
+.para6{
+  color: white;
+  font-size: 16px;
+  font-family: Montserrat;
+  margin-left: 510px;
+  max-width:580px;
+}
+.para7{
+  color: white;
+  font-size: 16px;
+  font-family: Montserrat;
+  margin-left: 510px;
+  max-width:580px;
+}
+.threei{
+  display: flex;
+  margin-top: 170px;
+  margin-left: 130px;
+}
+.para8{
+  color: white;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 27px;
+  margin-top: -560px;
+  margin-left: 340px;
+  width: 300px;
+}
+.para9{
+  color: white;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 27px;
+  margin-left: 340px;
+  width: 300px;
+  margin-top: -25px;
+  
+}
+.para10{
+  color: white;
+  font-family: Montserrat;
+  font-size: 16px;
+  margin-top: 90px;
+  margin-left:190px ;
+  width:400px;
+  text-align: center;
+}
+.para11{
+  color: white;
+  font-family: Montserrat;
+  font-size: 16px;
+  margin-left:190px ;
+  width:400px;
+  text-align: center;
+  margin-top: 20px;
+}
+.foui{
+  display: flex;
+  margin-top: -550px;
+  margin-left: 630px;
+}
+.para12{
+  color: white;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 27px;
+  margin-left: 700px;
+  margin-top: -550px;
+  width: 250px;
+  text-align: right;
+}
+.para13{
+  color: white;
+  font-family: Montserrat;
+  font-size: 16px;
+  margin-left:690px;
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+.vel{
+  margin-top: 200px;
+  background-color: lightgrey;
+  height: 240px;
+}
+.fla{
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+  margin-left: 130px;
+}
+.fas{
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+  margin-left: 70px;
+}
+.sd{
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+  margin-left: 70px;
+}
+.iup{
+  color: white;
+  opacity: 100%;
+  margin-top: -110px;
+  margin-left: 207px;
+  position: absolute;
+  font-weight: bolder;
+  
+}
+.or{
+  color: white;
+  margin-left: 502px;
+  text-align: center;
+  width: 180px;
+  margin-top: -45px;
+  
+}
+.or1{
+  color: white;
+  margin-left: 509px;
+  margin-top: -15px;
+
+}
+.downw{
+  color: white;
+  margin-left: 910px;
+  font-weight: bolder;
+  margin-top: -110px;
+}
+.freeba{
+  background-color: white;
+  width: 100%;
+  height: 100%;
+
+}
+.free{
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 30px;
+  margin-top: 90px;
+  background-color: white;
+  height: 240px;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 16px;
+}
+.btn{
+  color: rgb(63, 169, 245);
+  margin-top: -140px;
+  font-family: Raleway;
+  font-weight: bold;
+  margin-left: 550px;
+  border: 2px solid  rgb(63, 169, 245);
+  width: 200px;
+  text-align: center;
+  padding: 15px;
+  border-radius: 28px;
+}
+.last{
+  font-family: Montserrat;
+  font-weight: 700;
+  margin-left: 580px;
+}
+@media (min-width:1200px ) and (max-width:1299px) {
+.one{
+  width: 80%;
+  height: 80%;
+  text-align: center;
+  margin-left: 8%;
+}
+.para1{
+margin-left: 32%;
+font-size:25px ;
+max-width: 400px;
+  text-align: center;
+}
+  .para2{
+    text-align: center;
+    font-size: 15px;
+    max-width: 600px;
+    margin-left: 25%;
+  }
+  .twoi{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 18%;
+    width:70%;
+    height: 100%;
+  }
+  .para3{
+    margin-top: -447px;
+  font-size:25px ;
+  text-align: justify;
+  margin-left:560px;
+}
+.para4{
+  margin-left:560px;
+font-size:25px ;
+margin-top: -22px;
+}
+.para5{
+  font-family: Montserrat;
+  margin-left:560px;
+  font-size:13px;
+  margin-top: -10px;
+  max-width:400px;
+}
+.para6{
+  margin-left:560px;
+  font-size:13px;
+  margin-top: -7px;
+  max-width:400px;
+}
+.para7{
+  margin-left:560px;
+  font-size:13px;
+  margin-top: -7px;
+  max-width:400px;
+}
+.threei{
+  margin-top: 150px;
+  margin-left: 240px;
+  width:400px;
+  height: 500px;
+  
+}
+.para8{
+font-size: 23px;
+margin-top: -455px;
+margin-left: 393px;
+max-width: 250px;
+
+}
+.para9{
+  font-size: 23px;
+  margin-left: 393px;
+  max-width: 200px;
+}
+.para10{
+  font-size: 13px;
+  margin-left: 286px;
+  max-width: 300px;
+  margin-top: 50px;
+}
+.para11{
+  font-size: 13px;
+  margin-left: 286px;
+  max-width: 300px;
+
+}
+.foui{
+  margin-right: 0%;
+  margin-left: 656px;
+  margin-top: -462px;
+  width:400px;
+  height: 500px;
+}
+.para12{
+  font-size: 23px;
+  margin-left: 700px;
+ margin-top: -450px;
+ max-width: 200px;
+}
+.para13{
+  font-size: 13px;
+  margin-left:700px;
+  margin-top: 15px;
+  max-width: 300px;
+}
+.fla{
+  margin-top: 20px;
+  margin-left: 120px;
+  float: left;
+  background-color: lightgray;
+  background-position: top;
+}
+.iup{
+  margin-top: 120px;
+  margin-left: 200px;
+  position: absolute;
+  
+}
+.fas{
+  margin-top: 20px;
+  margin-left: 40px;
+  float: left;
+  background-color: lightgrey;
+  
+}
+.or{
+  margin-left: 460px;
+  margin-top: 166px;
+  position: absolute;
+}
+.or1{
+  margin-left: 464px;
+  margin-top: 190px;
+  position:absolute;
+}
+.sd{
+  margin-left: 800px;
+  margin-top: -200px;
+  float: left;
+  background-color: lightgrey;
+}
+
+.free{
+  margin-top: 85px;
+}
+.btn{
+  margin-left: 500px;
+}
+.downw{
+  margin-top: -112px;
+  margin-left: 850px;
+}
+}
+@media(min-width:992px) and (max-width:1199px){
+.one{
+  width: 100%;
+  height: 100%;
+  margin-left: 10px;
+}
+.para1{
+  margin-left: 30%;
+font-size:25px ;
+max-width: 400px;
+  text-align: center;
+
+}
+.para2{
+  text-align: center;
+  font-size: 15px;
+  max-width: 600px;
+  margin-left: 20%;
+}
+.twoi{
+  margin-top: 30px;
+  text-align: center;
+  margin-left: 12%;
+  width:80%;
+  height: 100%;
+}
+.para3{
+  margin-top: -410px;
+font-size:25px ;
+text-align: justify;
+margin-left:410px;
+}
+.para4{
+margin-left:410px;
+font-size:25px ;
+margin-top: -30px;
+}
+.para5{
+font-family: Montserrat;
+margin-left:410px;
+font-size:13px;
+margin-top: -20px;
+max-width:380px;
+}
+.para6{
+  margin-left:410px;
+font-size:13px;
+margin-top: -7px;
+max-width:380px;
+}
+.para7{
+  margin-left:410px;
+font-size:13px;
+margin-top: -7px;
+max-width:380px;
+}
+.threei{
+margin-top: 150px;
+margin-left: 120px;
+width:400px;
+height: 500px;
+
+}
+.para8{
+font-size: 23px;
+margin-top: -455px;
+margin-left: 273px;
+max-width: 250px;
+
+}
+.para9{
+font-size: 23px;
+margin-left: 273px;
+max-width: 200px;
+}
+.para10{
+font-size: 13px;
+margin-left: 170px;
+max-width: 300px;
+margin-top: 50px;
+}
+.para11{
+font-size: 13px;
+margin-left: 170px;
+max-width: 300px;
+
+}
+.foui{
+margin-right: 0%;
+margin-left: 506px;
+margin-top: -460px;
+width:400px;
+height: 500px;
+}
+.para12{
+font-size: 23px;
+margin-left: 550px;
+margin-top: -451px;
+max-width: 200px;
+}
+.para13{
+font-size: 13px;
+margin-left:550px;
+margin-top: 15px;
+max-width: 300px;
+}
+.fla{
+margin-top: 20px;
+margin-left: 10px;
+float: left;
+background-color: lightgray;
+background-position: top;
+}
+.iup{
+margin-top: 120px;
+margin-left: 120px;
+position: absolute;
+
+}
+.fas{
+margin-top: 20px;
+margin-left: 25px;
+float: left;
+background-color: lightgrey;
+
+}
+.or{
+margin-left: 350px;
+margin-top: 166px;
+position: absolute;
+}
+.or1{
+margin-left: 353px;
+margin-top: 190px;
+position:absolute;
+}
+.sd{
+margin-left: 665px;
+margin-top: -200px;
+float: left;
+background-color: lightgrey;
+}
+
+.free{
+margin-top: 85px;
+}
+.btn{
+margin-left: 380px;
+}
+.downw{
+margin-top: -121px;
+margin-left: 750px;
+}
+  }
+  @media(min-width:1070px) and (max-width:1150){
+    .twoi{
+      margin-top: 30px;
+      text-align: center;
+      margin-left: 12%;
+      width:80%;
+      height: 100%;
+    }
+    .para3{
+      margin-top: -420px;
+    font-size:25px ;
+    text-align: justify;
+    margin-left:430px;
+    }
+    .para4{
+    margin-left:430px;
+    font-size:25px ;
+    margin-top: -30px;
+    }
+    .para5{
+    font-family: Montserrat;
+    margin-left:430px;
+    font-size:13px;
+    margin-top: -20px;
+    max-width:400px;
+    }
+    .para6{
+      margin-left:430px;
+    font-size:13px;
+    margin-top: -7px;
+    max-width:400px;
+    }
+    .para7{
+      margin-left:430px;
+    font-size:13px;
+    margin-top: -7px;
+    max-width:400px;
+    }
+  }
+@media(min-width:768px) and (max-width:991px){
+  .one{
+    width: 100%;
+    height: 100%;
+    margin-left: 1.5%;
+  }
+  .para1{
+  font-size:25px ;
+  max-width: 400px;
+    text-align: center;
+    margin-left: 21%;
+  
+  }
+  .para2{
+    text-align: center;
+    font-size: 15px;
+    max-width: 500px;
+    margin-left: 16%;
+  }
+  .twoi{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 10%;
+    width:80%;
+    height: 100%;
+  }
+  .para3{
+    margin-top: -320px;
+  font-size:21px ;
+  text-align: justify;
+  margin-left:300px;
+  }
+  .para4{
+  margin-left:300px;
+  font-size:21px ;
+  margin-top: -20px;
+  }
+  .para5{
+  font-family: Montserrat;
+  margin-left:300px;
+  font-size:10px;
+  margin-top: -16px;
+  max-width:300px;
+  }
+  .para6{
+    margin-left:300px;
+  font-size:10px;
+  margin-top: 10px;
+  max-width:300px;
+  }
+  .para7{
+    margin-left:300px;
+  font-size:10px;
+  margin-top: 10px;
+  max-width:300px;
+  }
+  .threei{
+    margin-top: 150px;
+    margin-left: 50px;
+    width:300px;
+    height: 400px;
+    
+    }
+    .para8{
+    font-size: 16px;
+    margin-top: -370px;
+    margin-left: 163px;
+    max-width: 200px;
+    
+    }
+    .para9{
+    font-size: 18px;
+    margin-left: 163px;
+    max-width: 200px;
+    margin-top: -12px;
+    }
+    .para10{
+    font-size: 10px;
+    margin-left: 100px;
+    max-width: 200px;
+    margin-top: 50px;
+    }
+    .para11{
+    font-size: 10px;
+    margin-left: 100px;
+    max-width: 200px;
+    margin-top: -5px;
+    
+    }
+    .foui{
+    margin-right: 0%;
+    margin-left: 386px;
+    margin-top: -388px;
+    width:300px;
+    height: 400px;
+    }
+    .para12{
+    font-size: 16px;
+    margin-left: 420px;
+    margin-top: -373px;
+    max-width: 150px;
+    }
+    .para13{
+    font-size: 10px;
+    margin-left:437px;
+    margin-top: 35px;
+    max-width: 200px;
+    }
+  .fla{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+    background-color: lightgray;
+    background-position: top;
+    }
+    .iup{
+    margin-top: 120px;
+    margin-left: 70px;
+    position: absolute;
+    
+    }
+    .fas{
+      width: 200px;
+    margin-top: 20px;
+    margin-left: 44px;
+    float: left;
+    background-color: lightgrey;
+    
+    }
+    .or{
+      font-size: 13px;
+    margin-left: 250px;
+    margin-top: 166px;
+    position: absolute;
+    }
+    .or1{
+      font-size: 13px;
+    margin-left: 277px;
+    margin-top: 190px;
+    position:absolute;
+    }
+    .sd{
+      width: 200px;
+    margin-left: 520px;
+    margin-top: -200px;
+    float: left;
+    background-color: lightgrey;
+    }
+    
+    .free{
+    margin-top: 100px;
+    margin-left: -50px;
+    max-width: 600px;
+    }
+    .btn{
+      margin-top: -120px;
+    margin-left: 230px;
+    }
+    .downw{
+    margin-top: -121px;
+    margin-left: 540px;
+    }
+
+}
+@media(max-width:766){
+  .para1{
+    text-align: center;
+      }
+}
